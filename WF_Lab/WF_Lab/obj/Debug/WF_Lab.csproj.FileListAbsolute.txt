@@ -1,0 +1,107 @@
+C:\Users\сергей\source\repos\WF_Lab\WF_Lab\bin\Debug\WF_Lab.exe.config
+C:\Users\сергей\source\repos\WF_Lab\WF_Lab\bin\Debug\WF_Lab.exe
+C:\Users\сергей\source\repos\WF_Lab\WF_Lab\bin\Debug\WF_Lab.pdb
+C:\Users\сергей\source\repos\WF_Lab\WF_Lab\obj\Debug\WF_Lab.csprojAssemblyReference.cache
+C:\Users\сергей\source\repos\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Form1.resources
+C:\Users\сергей\source\repos\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Properties.Resources.resources
+C:\Users\сергей\source\repos\WF_Lab\WF_Lab\obj\Debug\WF_Lab.csproj.GenerateResource.cache
+C:\Users\сергей\source\repos\WF_Lab\WF_Lab\obj\Debug\WF_Lab.csproj.CoreCompileInputs.cache
+C:\Users\сергей\source\repos\WF_Lab\WF_Lab\obj\Debug\WF_Lab.exe
+C:\Users\сергей\source\repos\WF_Lab\WF_Lab\obj\Debug\WF_Lab.pdb
+C:\Users\сергей\source\repos\WF_Lab\WF_Lab\obj\Debug\WF_Lab.AboutBox1.resources
+C:\Users\сергей\source\repos\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Form2.resources
+F:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\WF_Lab.exe.config
+F:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\WF_Lab.exe
+F:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\WF_Lab.pdb
+F:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.AboutBox1.resources
+F:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Form1.resources
+F:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Form2.resources
+F:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.LR_2.resources
+F:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Properties.Resources.resources
+F:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.csproj.GenerateResource.Cache
+F:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.csproj.CoreCompileInputs.cache
+F:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.exe
+F:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.pdb
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\WF_Lab.exe.config
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\WF_Lab.exe
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\WF_Lab.pdb
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.csprojAssemblyReference.cache
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.AboutBox1.resources
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Form1.resources
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Form2.resources
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.LR_2.resources
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Properties.Resources.resources
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.csproj.GenerateResource.cache
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.csproj.CoreCompileInputs.cache
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.exe
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.pdb
+F:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.csprojResolveAssemblyReference.cache
+F:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Test2class.resources
+E:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\WF_Lab.exe.config
+E:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\WF_Lab.exe
+E:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\WF_Lab.pdb
+E:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.csprojAssemblyReference.cache
+E:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.AboutBox1.resources
+E:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Form1.resources
+E:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Form2.resources
+E:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.LR_2.resources
+E:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Properties.Resources.resources
+E:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Test2class.resources
+E:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.csproj.GenerateResource.cache
+E:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.csproj.CoreCompileInputs.cache
+E:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.exe
+E:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.pdb
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Test2class.resources
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Form3.resources
+F:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Form3.resources
+F:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Form4.resources
+E:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Form3.resources
+E:\Предметы\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Form4.resources
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Form4.resources
+C:\Users\user\Desktop\WF_Lab\WF_Lab\bin\Debug\WF_Lab.exe.config
+C:\Users\user\Desktop\WF_Lab\WF_Lab\bin\Debug\WF_Lab.exe
+C:\Users\user\Desktop\WF_Lab\WF_Lab\bin\Debug\WF_Lab.pdb
+C:\Users\user\Desktop\WF_Lab\WF_Lab\obj\Debug\WF_Lab.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\WF_Lab\WF_Lab\obj\Debug\WF_Lab.AboutBox1.resources
+C:\Users\user\Desktop\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Form1.resources
+C:\Users\user\Desktop\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Form2.resources
+C:\Users\user\Desktop\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Form3.resources
+C:\Users\user\Desktop\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Form4.resources
+C:\Users\user\Desktop\WF_Lab\WF_Lab\obj\Debug\WF_Lab.LR_2.resources
+C:\Users\user\Desktop\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Properties.Resources.resources
+C:\Users\user\Desktop\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Test2class.resources
+C:\Users\user\Desktop\WF_Lab\WF_Lab\obj\Debug\WF_Lab.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\WF_Lab\WF_Lab\obj\Debug\WF_Lab.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WF_Lab\WF_Lab\obj\Debug\WF_Lab.exe
+C:\Users\user\Desktop\WF_Lab\WF_Lab\obj\Debug\WF_Lab.pdb
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Form5.resources
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Form6.resources
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\obj\Debug\WF_Lab.Form7.resources
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\Database1.mdf
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\Database1_log.ldf
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\Database1DataSet.Designer.cs
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\Database1DataSet1.Designer.cs
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\Database1DataSet2.Designer.cs
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\Database1DataSet3.Designer.cs
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\Database1DataSet.xsc
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\Database1DataSet.xsd
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\Database1DataSet.xss
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\Database1DataSet1.xsc
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\Database1DataSet1.xsd
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\Database1DataSet1.xss
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\Database1DataSet2.xsc
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\Database1DataSet2.xsd
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\Database1DataSet2.xss
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\Database1DataSet3.xsc
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\Database1DataSet3.xsd
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\Database1DataSet3.xss
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\AboutBox1.resx
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\Form7.resx
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\AboutBox1.cs
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\AboutBox1.Designer.cs
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\Form7.cs
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\Form7.Designer.cs
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\App.config
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\Form5.resx
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\Form5.cs
+D:\SRB\Языки и методы программирования\WF_Lab\WF_Lab\bin\Debug\Form5.Designer.cs

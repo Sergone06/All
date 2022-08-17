@@ -1,0 +1,7 @@
+D:\SRB\Языки и методы программирования\Laba_7\Laba_7\bin\Debug\Laba_7.exe.config
+D:\SRB\Языки и методы программирования\Laba_7\Laba_7\bin\Debug\Laba_7.exe
+D:\SRB\Языки и методы программирования\Laba_7\Laba_7\bin\Debug\Laba_7.pdb
+D:\SRB\Языки и методы программирования\Laba_7\Laba_7\obj\Debug\Laba_7.csprojAssemblyReference.cache
+D:\SRB\Языки и методы программирования\Laba_7\Laba_7\obj\Debug\Laba_7.csproj.CoreCompileInputs.cache
+D:\SRB\Языки и методы программирования\Laba_7\Laba_7\obj\Debug\Laba_7.exe
+D:\SRB\Языки и методы программирования\Laba_7\Laba_7\obj\Debug\Laba_7.pdb

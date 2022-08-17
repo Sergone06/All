@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Laba_9\Laba_9\bin\Debug\Laba_9.exe.config
+C:\Users\user\source\repos\Laba_9\Laba_9\bin\Debug\Laba_9.exe
+C:\Users\user\source\repos\Laba_9\Laba_9\bin\Debug\Laba_9.pdb
+C:\Users\user\source\repos\Laba_9\Laba_9\obj\Debug\Laba_9.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Laba_9\Laba_9\obj\Debug\Laba_9.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Laba_9\Laba_9\obj\Debug\Laba_9.exe
+C:\Users\user\source\repos\Laba_9\Laba_9\obj\Debug\Laba_9.pdb
+E:\Предметы\ЯМП\Laba_9\Laba_9\bin\Debug\Laba_9.exe.config
+E:\Предметы\ЯМП\Laba_9\Laba_9\bin\Debug\Laba_9.exe
+E:\Предметы\ЯМП\Laba_9\Laba_9\bin\Debug\Laba_9.pdb
+E:\Предметы\ЯМП\Laba_9\Laba_9\obj\Debug\Laba_9.csprojAssemblyReference.cache
+E:\Предметы\ЯМП\Laba_9\Laba_9\obj\Debug\Laba_9.csproj.CoreCompileInputs.cache
+E:\Предметы\ЯМП\Laba_9\Laba_9\obj\Debug\Laba_9.exe
+E:\Предметы\ЯМП\Laba_9\Laba_9\obj\Debug\Laba_9.pdb

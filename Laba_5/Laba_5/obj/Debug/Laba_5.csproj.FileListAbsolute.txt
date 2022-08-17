@@ -1,0 +1,14 @@
+C:\Users\сергей\source\repos\Laba_5\Laba_5\bin\Debug\Laba_5.exe.config
+C:\Users\сергей\source\repos\Laba_5\Laba_5\bin\Debug\Laba_5.exe
+C:\Users\сергей\source\repos\Laba_5\Laba_5\bin\Debug\Laba_5.pdb
+C:\Users\сергей\source\repos\Laba_5\Laba_5\obj\Debug\Laba_5.csprojAssemblyReference.cache
+C:\Users\сергей\source\repos\Laba_5\Laba_5\obj\Debug\Laba_5.csproj.CoreCompileInputs.cache
+C:\Users\сергей\source\repos\Laba_5\Laba_5\obj\Debug\Laba_5.exe
+C:\Users\сергей\source\repos\Laba_5\Laba_5\obj\Debug\Laba_5.pdb
+D:\SRB\Языки и методы программирования\Laba_5\Laba_5\bin\Debug\Laba_5.exe.config
+D:\SRB\Языки и методы программирования\Laba_5\Laba_5\bin\Debug\Laba_5.exe
+D:\SRB\Языки и методы программирования\Laba_5\Laba_5\bin\Debug\Laba_5.pdb
+D:\SRB\Языки и методы программирования\Laba_5\Laba_5\obj\Debug\Laba_5.csprojAssemblyReference.cache
+D:\SRB\Языки и методы программирования\Laba_5\Laba_5\obj\Debug\Laba_5.csproj.CoreCompileInputs.cache
+D:\SRB\Языки и методы программирования\Laba_5\Laba_5\obj\Debug\Laba_5.exe
+D:\SRB\Языки и методы программирования\Laba_5\Laba_5\obj\Debug\Laba_5.pdb

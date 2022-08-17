@@ -1,0 +1,24 @@
+C:\Users\user\source\repos\WF_Maxim\WF_Maxim\bin\Debug\WF_Maxim.exe.config
+C:\Users\user\source\repos\WF_Maxim\WF_Maxim\bin\Debug\WF_Maxim.exe
+C:\Users\user\source\repos\WF_Maxim\WF_Maxim\bin\Debug\WF_Maxim.pdb
+C:\Users\user\source\repos\WF_Maxim\WF_Maxim\obj\Debug\WF_Maxim.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\WF_Maxim\WF_Maxim\obj\Debug\WF_Maxim.Form1.resources
+C:\Users\user\source\repos\WF_Maxim\WF_Maxim\obj\Debug\WF_Maxim.Properties.Resources.resources
+C:\Users\user\source\repos\WF_Maxim\WF_Maxim\obj\Debug\WF_Maxim.csproj.GenerateResource.Cache
+C:\Users\user\source\repos\WF_Maxim\WF_Maxim\obj\Debug\WF_Maxim.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WF_Maxim\WF_Maxim\obj\Debug\WF_Maxim.exe
+C:\Users\user\source\repos\WF_Maxim\WF_Maxim\obj\Debug\WF_Maxim.pdb
+C:\Users\user\source\repos\WF_Maxim\WF_Maxim\obj\Debug\WF_Maxim.Form2.resources
+C:\Users\user\source\repos\WF_Maxim\WF_Maxim\obj\Debug\WF_Maxim.AboutBox1.resources
+F:\Предметы\Языки и методы программирования\WF_Maxim\WF_Maxim\bin\Debug\WF_Maxim.exe.config
+F:\Предметы\Языки и методы программирования\WF_Maxim\WF_Maxim\bin\Debug\WF_Maxim.exe
+F:\Предметы\Языки и методы программирования\WF_Maxim\WF_Maxim\bin\Debug\WF_Maxim.pdb
+F:\Предметы\Языки и методы программирования\WF_Maxim\WF_Maxim\obj\Debug\WF_Maxim.csprojResolveAssemblyReference.cache
+F:\Предметы\Языки и методы программирования\WF_Maxim\WF_Maxim\obj\Debug\WF_Maxim.AboutBox1.resources
+F:\Предметы\Языки и методы программирования\WF_Maxim\WF_Maxim\obj\Debug\WF_Maxim.Form1.resources
+F:\Предметы\Языки и методы программирования\WF_Maxim\WF_Maxim\obj\Debug\WF_Maxim.Form2.resources
+F:\Предметы\Языки и методы программирования\WF_Maxim\WF_Maxim\obj\Debug\WF_Maxim.Properties.Resources.resources
+F:\Предметы\Языки и методы программирования\WF_Maxim\WF_Maxim\obj\Debug\WF_Maxim.csproj.GenerateResource.Cache
+F:\Предметы\Языки и методы программирования\WF_Maxim\WF_Maxim\obj\Debug\WF_Maxim.csproj.CoreCompileInputs.cache
+F:\Предметы\Языки и методы программирования\WF_Maxim\WF_Maxim\obj\Debug\WF_Maxim.exe
+F:\Предметы\Языки и методы программирования\WF_Maxim\WF_Maxim\obj\Debug\WF_Maxim.pdb

@@ -1,0 +1,20 @@
+C:\Users\Alex\source\repos\PolKeyProstr\PolKeyProstr\bin\Debug\PolKeyProstr.exe.config
+C:\Users\Alex\source\repos\PolKeyProstr\PolKeyProstr\bin\Debug\PolKeyProstr.exe
+C:\Users\Alex\source\repos\PolKeyProstr\PolKeyProstr\bin\Debug\PolKeyProstr.pdb
+C:\Users\Alex\source\repos\PolKeyProstr\PolKeyProstr\obj\Debug\PolKeyProstr.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\PolKeyProstr\PolKeyProstr\obj\Debug\PolKeyProstr.Form1.resources
+C:\Users\Alex\source\repos\PolKeyProstr\PolKeyProstr\obj\Debug\PolKeyProstr.Properties.Resources.resources
+C:\Users\Alex\source\repos\PolKeyProstr\PolKeyProstr\obj\Debug\PolKeyProstr.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\PolKeyProstr\PolKeyProstr\obj\Debug\PolKeyProstr.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\PolKeyProstr\PolKeyProstr\obj\Debug\PolKeyProstr.exe
+C:\Users\Alex\source\repos\PolKeyProstr\PolKeyProstr\obj\Debug\PolKeyProstr.pdb
+D:\SRB\Языки и методы программирования\svoi\PolKeyProstr\PolKeyProstr\bin\Debug\PolKeyProstr.exe.config
+D:\SRB\Языки и методы программирования\svoi\PolKeyProstr\PolKeyProstr\bin\Debug\PolKeyProstr.exe
+D:\SRB\Языки и методы программирования\svoi\PolKeyProstr\PolKeyProstr\bin\Debug\PolKeyProstr.pdb
+D:\SRB\Языки и методы программирования\svoi\PolKeyProstr\PolKeyProstr\obj\Debug\PolKeyProstr.csprojAssemblyReference.cache
+D:\SRB\Языки и методы программирования\svoi\PolKeyProstr\PolKeyProstr\obj\Debug\PolKeyProstr.Form1.resources
+D:\SRB\Языки и методы программирования\svoi\PolKeyProstr\PolKeyProstr\obj\Debug\PolKeyProstr.Properties.Resources.resources
+D:\SRB\Языки и методы программирования\svoi\PolKeyProstr\PolKeyProstr\obj\Debug\PolKeyProstr.csproj.GenerateResource.cache
+D:\SRB\Языки и методы программирования\svoi\PolKeyProstr\PolKeyProstr\obj\Debug\PolKeyProstr.csproj.CoreCompileInputs.cache
+D:\SRB\Языки и методы программирования\svoi\PolKeyProstr\PolKeyProstr\obj\Debug\PolKeyProstr.exe
+D:\SRB\Языки и методы программирования\svoi\PolKeyProstr\PolKeyProstr\obj\Debug\PolKeyProstr.pdb

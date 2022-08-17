@@ -1,0 +1,13 @@
+D:\20-ИБбо-6\Laba_11\Laba_11\bin\Debug\Laba_11.exe.config
+D:\20-ИБбо-6\Laba_11\Laba_11\bin\Debug\Laba_11.exe
+D:\20-ИБбо-6\Laba_11\Laba_11\bin\Debug\Laba_11.pdb
+D:\20-ИБбо-6\Laba_11\Laba_11\obj\Debug\Laba_11.csproj.CoreCompileInputs.cache
+D:\20-ИБбо-6\Laba_11\Laba_11\obj\Debug\Laba_11.exe
+D:\20-ИБбо-6\Laba_11\Laba_11\obj\Debug\Laba_11.pdb
+C:\Users\сергей\Desktop\Laba_11\Laba_11\bin\Debug\Laba_11.exe.config
+C:\Users\сергей\Desktop\Laba_11\Laba_11\bin\Debug\Laba_11.exe
+C:\Users\сергей\Desktop\Laba_11\Laba_11\bin\Debug\Laba_11.pdb
+C:\Users\сергей\Desktop\Laba_11\Laba_11\obj\Debug\Laba_11.csprojAssemblyReference.cache
+C:\Users\сергей\Desktop\Laba_11\Laba_11\obj\Debug\Laba_11.csproj.CoreCompileInputs.cache
+C:\Users\сергей\Desktop\Laba_11\Laba_11\obj\Debug\Laba_11.exe
+C:\Users\сергей\Desktop\Laba_11\Laba_11\obj\Debug\Laba_11.pdb

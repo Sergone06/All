@@ -1,0 +1,21 @@
+c:\users\user\source\repos\Laba_4\Laba_4\bin\Debug\Laba_4.exe.config
+c:\users\user\source\repos\Laba_4\Laba_4\bin\Debug\Laba_4.exe
+c:\users\user\source\repos\Laba_4\Laba_4\bin\Debug\Laba_4.pdb
+c:\users\user\source\repos\Laba_4\Laba_4\obj\Debug\Laba_4.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\Laba_4\Laba_4\obj\Debug\Laba_4.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Laba_4\Laba_4\obj\Debug\Laba_4.exe
+c:\users\user\source\repos\Laba_4\Laba_4\obj\Debug\Laba_4.pdb
+G:\Laba_4\Laba_4\bin\Debug\Laba_4.exe.config
+G:\Laba_4\Laba_4\bin\Debug\Laba_4.exe
+G:\Laba_4\Laba_4\bin\Debug\Laba_4.pdb
+G:\Laba_4\Laba_4\obj\Debug\Laba_4.csprojAssemblyReference.cache
+G:\Laba_4\Laba_4\obj\Debug\Laba_4.csproj.CoreCompileInputs.cache
+G:\Laba_4\Laba_4\obj\Debug\Laba_4.exe
+G:\Laba_4\Laba_4\obj\Debug\Laba_4.pdb
+D:\SRB\Языки и методы программирования\Laba_4\Laba_4\bin\Debug\Laba_4.exe.config
+D:\SRB\Языки и методы программирования\Laba_4\Laba_4\bin\Debug\Laba_4.exe
+D:\SRB\Языки и методы программирования\Laba_4\Laba_4\bin\Debug\Laba_4.pdb
+D:\SRB\Языки и методы программирования\Laba_4\Laba_4\obj\Debug\Laba_4.csprojAssemblyReference.cache
+D:\SRB\Языки и методы программирования\Laba_4\Laba_4\obj\Debug\Laba_4.csproj.CoreCompileInputs.cache
+D:\SRB\Языки и методы программирования\Laba_4\Laba_4\obj\Debug\Laba_4.exe
+D:\SRB\Языки и методы программирования\Laba_4\Laba_4\obj\Debug\Laba_4.pdb
